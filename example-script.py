@@ -7,3 +7,4 @@ Created on Tue Jan 14 17:06:23 2025
 """
 
 print("Hello world")
+x=5
